@@ -28,7 +28,7 @@ export function Hero() {
   }, []);
 
   return (
-    <section className="pt-[30px] pb-2">
+    <section className="pt-[90px] pb-2">
       <p className="font-sans text-[14px] font-medium text-accent-link mb-10">
         Hi! I&apos;m John! 👋
       </p>
