@@ -31,10 +31,7 @@ export default function Home() {
 
       <InfoRow label="currently">
         <ul className="list-disc space-y-3 pl-5">
-          <li>
-            Product Manager Intern @{" "}
-            <AccentLink href="https://www.dayforce.com">Dayforce</AccentLink>
-          </li>
+          <li>Looking for my next opportunity in tech! 👀</li>
           <li>
             Venture Scout for{" "}
             <AccentLink href="https://scala-vc.com">Scala Capital</AccentLink>
@@ -78,11 +75,11 @@ export default function Home() {
             <AccentLink href="https://www.instagram.com/genz_bookclub/">
               gen z book club
             </AccentLink>
-            : definitely not like other book clubs ;)
+            {" "}(founder): definitely not like other book clubs ;)
           </li>
           <li>
             <AccentLink href="https://joinpizza.fun">Pizza and Friends!</AccentLink>
-            : What if tech communities were less serious?
+            {" "}(founder): What if tech communities were less serious?
           </li>
           <li>
             <AccentLink href="https://www.uxph.org">UXPH</AccentLink>

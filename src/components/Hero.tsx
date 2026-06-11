@@ -33,7 +33,7 @@ export function Hero() {
         Hi! I&apos;m John! 👋
       </p>
 
-      <h1 className="font-serif text-[40px] leading-[44px] font-normal text-foreground mb-[30px]">
+      <h1 className="font-serif text-[40px] leading-[44px] font-medium text-foreground mb-[30px]">
         I love building products.
       </h1>
 
