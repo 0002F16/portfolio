@@ -37,7 +37,7 @@ export function Hero() {
         I love building products.
       </h1>
 
-      <p className="font-serif text-[40px] leading-[44px] font-normal text-foreground mb-[30px]">
+      <p className="font-serif text-[40px] leading-[44px] font-medium text-foreground mb-[30px]">
         {/* Currently a Product Manager. */}
         Currently unemployed.
         <br />

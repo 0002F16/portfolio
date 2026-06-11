@@ -83,7 +83,7 @@ export default function Home() {
           </li>
           <li>
             <AccentLink href="https://www.uxph.org">UXPH</AccentLink>
-            : Inclusive design for Filipinos
+            : Inclusive design for a better Philippines! yayyy
           </li>
           <li>
             <AccentLink href="https://nocode.ph">NoCodePH</AccentLink>
